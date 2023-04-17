@@ -1,0 +1,54 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #b29a36, #404040);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 441px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-decoration: underline !important;
+  letter-spacing: 1px;
+  line-height: 1.4;
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 77px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 38px auto 60px;
+  padding: 10px 72px 10px 71px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-family: Roboto, sans-serif;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(to right, #b29a36, #404040);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  margin: 28px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 28px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 15px -7px 60px;
+}
