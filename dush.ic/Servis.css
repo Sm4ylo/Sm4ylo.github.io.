@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1020px;
+  min-height: 684px;
 }
 
 .u-section-1 .u-text-1 {
@@ -23,7 +23,7 @@
 }
 
 .u-section-1 .u-text-3 {
-  margin: 41px 0 60px;
+  margin: 41px 0 55px;
 }
 
 @media (max-width: 991px) {
@@ -56,5 +56,112 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 169px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(to right, #b29a36, #404040);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 667px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 1px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 28px auto 0 69px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: -43px 82px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 34px auto 0 20px;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 1.25rem;
+  margin: -416px 43px 60px auto;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-4 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-text-5 {
+    font-size: 1rem;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(to right, #b29a36, #333333);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1138px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 45px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 34px 34px 0 601px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.25rem;
+  margin: -864px 590px 192px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+    margin-left: 435px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 435px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    margin-left: 215px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 215px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 35px;
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 35px;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
   }
 }
