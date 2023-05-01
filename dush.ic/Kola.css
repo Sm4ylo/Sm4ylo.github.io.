@@ -1,0 +1,28 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #b29a36, #404040);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 582px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 54px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 454px;
+  height: 400px;
+  margin: 40px auto 45px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 482px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 300px;
+  }
+}
