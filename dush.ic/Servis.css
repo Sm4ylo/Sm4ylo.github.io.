@@ -44,7 +44,6 @@
 
   .u-section-1 .u-text-2 {
     margin-top: 20px;
-    margin-bottom: initial;
   }
 
   .u-section-1 .u-image-1 {
@@ -56,10 +55,6 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 432px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-bottom: 0;
   }
 
   .u-section-1 .u-image-1 {
